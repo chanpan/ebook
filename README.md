@@ -21,5 +21,7 @@
 <div>
   <a href='https://drive.google.com/drive/folders/1eLTID9cgsFlJV_LFnfTPq9FL0xuxtWg9?usp=sharing' target='_blank'>Python Opencv EN</a>
 </div>
-
+<div>
+  <a href="https://medium.com/@pakin/git-%E0%B8%84%E0%B8%B7%E0%B8%AD%E0%B8%AD%E0%B8%B0%E0%B9%84%E0%B8%A3-git-is-your-friend-c609c5f8efea">เว็บสอนใช้งาน Git </a>
+</div>
 
