@@ -18,4 +18,8 @@
 <div>
   <a href='https://drive.google.com/drive/folders/14iqAS4TiYFoSzHF4reNof9fGLmd6Cu_V?usp=sharing' target='_blank'>React + Redux TH</a>
 </div>
+<div>
+  <a href='https://drive.google.com/drive/folders/1eLTID9cgsFlJV_LFnfTPq9FL0xuxtWg9?usp=sharing' target='_blank'>Python Opencv EN</a>
+</div>
+
 
